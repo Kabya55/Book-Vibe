@@ -18,7 +18,8 @@ A modern book browsing web application where users can explore books, view detai
   - Rating
 
     ## 🖼️ Screenshots
-<img width="2560" height="3645" alt="screencapture-medi-queue-clien-vercel-app-tutors-2026-06-04-12_31_34" src="https://github.com/user-attachments/assets/9f61792e-ea32-4e57-af68-886793093ab3" />
+<img width="2560" height="3340" alt="screencapture-book-vibe-lyart-vercel-app-2026-06-04-12_34_54" src="https://github.com/user-attachments/assets/154c1a1a-d8d4-4717-907c-51ce3a06a9d0" />
+
 
 
 #### 📖 Book Card Action
